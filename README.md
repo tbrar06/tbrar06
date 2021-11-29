@@ -1,7 +1,8 @@
-### Hi there 👋
-🌱 I am currently learning databases. 
+### Hi,I'm Tanveer 👋
 
-🔭 I am currently working on an app.
+Welcome to my Github profile! I'm a student @McMaster University who loves to code and meet new people. 
+
+
 <!--
 **tbrar06/tbrar06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
