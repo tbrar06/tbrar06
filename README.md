@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I am currently learning databases. 
+🔭 I am currently working on an app.
 <!--
 **tbrar06/tbrar06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
