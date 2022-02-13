@@ -2,7 +2,7 @@
 
 Welcome to my Github profile! I'm a student @McMaster University who loves to code and meet new people. 
 
-Check out my other projects on Devpost at https://devpost.com/brart5 .
+Check out my other projects on Devpost at https://devpost.com/brart5.
 
 
 <!--
