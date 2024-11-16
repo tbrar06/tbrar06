@@ -1,10 +1,3 @@
-### Hi,I'm Tanveer 👋
-
-Welcome to my Github profile! I'm a student @McMaster University who loves to code and meet new people. 
-
-Check out my other projects on Devpost at https://devpost.com/brart5.
-
-Feel free to visit my website at https://www.tanveerb.com/.
 
 <!--
 **tbrar06/tbrar06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
